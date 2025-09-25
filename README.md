@@ -87,7 +87,6 @@ Any text editor or IDE (IntelliJ IDEA, VS Code, Eclipse)
 
 ## 🎯 Usage Examples
 Main Menu
-Always show details
 === Library Management System ===
 
 1. View all books
@@ -118,9 +117,9 @@ Book added successfully!
 ## 💾 Data Storage Format
 Books File (data/books.txt)
 Always show details
-1|Java Programming|John Smith|978-0134685991|true
-2|Clean Code|Robert Martin|978-0132350884|false
-3|Design Patterns|Gamma et al|978-0201633610|true
+1. |Java Programming|John Smith|978-0134685991|true
+2. |Clean Code|Robert Martin|978-0132350884|false
+3. |Design Patterns|Gamma et al|978-0201633610|true
 
 
 Fields: bookId|title|author|isbn|isAvailable
