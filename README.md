@@ -21,18 +21,19 @@ A console-based Library Management System built with pure Java, demonstrating Ob
 
 ## 📁 Project Structure
 LibraryManagementSystem/
-├── data/ # Data storage (simulated database)
-│ ├── books.txt # Book records
-│ ├── members.txt # Member records
-│ └── transactions.txt # Borrowing history
+├── data/                   # Data storage (simulated database)
+│   ├── books.txt          # Book records
+│   ├── members.txt        # Member records
+│   └── transactions.txt   # Borrowing history
 ├── src/
-│ ├── models/ # Entity classes
-│ │ ├── Book.java
-│ │ ├── Member.java
-│ │ └── Transaction.java
-│ ├── services/ # Business logic layer
-│ │ ├── BookService.java
-│ │ ├── MemberService.java
-│ │ └── TransactionService.java
-│ └── LibraryApp.java # Main application class
-└── README.md
+│   ├── models/            # Entity classes
+│   │   ├── Book.java
+│   │   ├── Member.java
+│   │   └── Transaction.java
+│   ├── services/          # Business logic layer
+│   │   ├── BookService.java
+│   │   ├── MemberService.java
+│   │   └── TransactionService.java
+│   └── LibraryApp.java    # Main application class
+├── README.md
+└── .gitignore
