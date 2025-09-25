@@ -127,8 +127,8 @@ Fields: bookId|title|author|isbn|isAvailable
 
 Members File (data/members.txt)
 Always show details
-101|Alice Johnson|alice@email.com|0831234567
-102|Bob Williams|bob@email.com|0847654321
+- 101|Alice Johnson|alice@email.com|0831234567
+- 102|Bob Williams|bob@email.com|0847654321
 
 
 Fields: memberId|name|email|phone
